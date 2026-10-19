@@ -1,0 +1,3 @@
+-r requirements.txt
+pytest>=7.4
+yfinance>=0.2   # optional: only needed for --fetch-prices

@@ -1,0 +1,3 @@
+-r requirements.txt
+pyinstaller>=6.0
+yfinance>=0.2     # optional: enables "Fetch latest prices" inside the packaged app
